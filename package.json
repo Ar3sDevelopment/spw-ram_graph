@@ -1,5 +1,5 @@
 {
-	"name": "ram_graph",
+	"name": "spw-ram_graph",
 	"description": "RAM Graph Widget for System Information Panel",
 	"version": "0.6.0",
 	"keywords": ["system", "info", "panel", "raspberry", "pi", "rpi-systempanel", "widgets", "ram_graph"],
