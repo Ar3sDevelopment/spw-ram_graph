@@ -1,6 +1,5 @@
 exports.data = function(cb) {
 	var util = require('util');
-	var exec = require('child_process').exec;
 	var res = {
 		ram_usages : []
 	};
@@ -58,4 +57,4 @@ exports.manage_post = function(post, cb) {
 
 exports.updatetime = 1000;
 exports.title = 'RAM Graph';
-exports.columns = 6;
+exports.columns = 4;
